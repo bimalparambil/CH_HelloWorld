@@ -1,0 +1,5 @@
+D:\UnitTest\CH_HelloWorld\CH_HelloWorld\bin\Debug\CH_HelloWorld.dll
+D:\UnitTest\CH_HelloWorld\CH_HelloWorld\bin\Debug\CH_HelloWorld.pdb
+D:\UnitTest\CH_HelloWorld\CH_HelloWorld\obj\Debug\Core.csprojResolveAssemblyReference.cache
+D:\UnitTest\CH_HelloWorld\CH_HelloWorld\obj\Debug\CH_HelloWorld.dll
+D:\UnitTest\CH_HelloWorld\CH_HelloWorld\obj\Debug\CH_HelloWorld.pdb

@@ -1,0 +1,8 @@
+D:\UnitTest\CH_HelloWorld\MainConsole\bin\Debug\MainConsole.exe.config
+D:\UnitTest\CH_HelloWorld\MainConsole\bin\Debug\MainConsole.exe
+D:\UnitTest\CH_HelloWorld\MainConsole\bin\Debug\MainConsole.pdb
+D:\UnitTest\CH_HelloWorld\MainConsole\bin\Debug\CH_HelloWorld.dll
+D:\UnitTest\CH_HelloWorld\MainConsole\bin\Debug\CH_HelloWorld.pdb
+D:\UnitTest\CH_HelloWorld\MainConsole\obj\Debug\MainConsole.csprojResolveAssemblyReference.cache
+D:\UnitTest\CH_HelloWorld\MainConsole\obj\Debug\MainConsole.exe
+D:\UnitTest\CH_HelloWorld\MainConsole\obj\Debug\MainConsole.pdb

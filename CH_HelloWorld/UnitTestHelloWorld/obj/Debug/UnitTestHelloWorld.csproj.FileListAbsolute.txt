@@ -1,0 +1,10 @@
+D:\UnitTest\CH_HelloWorld\UnitTestHelloWorld\obj\Debug\UnitTestHelloWorld.csprojResolveAssemblyReference.cache
+D:\UnitTest\CH_HelloWorld\UnitTestHelloWorld\bin\Debug\UnitTestHelloWorld.dll
+D:\UnitTest\CH_HelloWorld\UnitTestHelloWorld\bin\Debug\UnitTestHelloWorld.pdb
+D:\UnitTest\CH_HelloWorld\UnitTestHelloWorld\bin\Debug\CH_HelloWorld.dll
+D:\UnitTest\CH_HelloWorld\UnitTestHelloWorld\bin\Debug\CH_HelloWorld.pdb
+D:\UnitTest\CH_HelloWorld\UnitTestHelloWorld\obj\Debug\UnitTestHelloWorld.dll
+D:\UnitTest\CH_HelloWorld\UnitTestHelloWorld\obj\Debug\UnitTestHelloWorld.pdb
+D:\UnitTest\CH_HelloWorld\UnitTestHelloWorld\bin\Debug\UnitTestHelloWorld.dll.config
+D:\UnitTest\CH_HelloWorld\UnitTestHelloWorld\bin\Debug\WSAPI.dll
+D:\UnitTest\CH_HelloWorld\UnitTestHelloWorld\bin\Debug\WSAPI.pdb

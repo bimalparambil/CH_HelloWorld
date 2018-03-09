@@ -1,0 +1,8 @@
+D:\UnitTest\CH_HelloWorld\WSAPI\bin\WSAPI.dll.config
+D:\UnitTest\CH_HelloWorld\WSAPI\bin\WSAPI.dll
+D:\UnitTest\CH_HelloWorld\WSAPI\bin\WSAPI.pdb
+D:\UnitTest\CH_HelloWorld\WSAPI\bin\CH_HelloWorld.dll
+D:\UnitTest\CH_HelloWorld\WSAPI\bin\CH_HelloWorld.pdb
+D:\UnitTest\CH_HelloWorld\WSAPI\obj\Debug\WSAPI.csprojResolveAssemblyReference.cache
+D:\UnitTest\CH_HelloWorld\WSAPI\obj\Debug\WSAPI.dll
+D:\UnitTest\CH_HelloWorld\WSAPI\obj\Debug\WSAPI.pdb
